@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "import-demo-app"
+  name: "import-demo-app1"
 spec:
   type: service
   lifecycle: development
