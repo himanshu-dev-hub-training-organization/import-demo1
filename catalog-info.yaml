@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "import-demo-app3"
+  name: "import-demo-app4"
   annotations:
-    github.com/project-slug: himanshu-dev-hub-training-organization/import-demo1 # <organization_name>/<project_name>
+    github.com/project-slug: himanshu-dev-hub-training-organization/import-demo4 # <organization_name>/<project_name>
 spec:
   type: service
   lifecycle: development
